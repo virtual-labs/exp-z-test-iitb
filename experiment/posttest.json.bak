@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What is the standard error of the mean for a distribution of scores where the standard deviation for the population = 15 and the size of the sample = 100?",
+      "qid": 1,
+      "option_a": "0.15",
+      "option_b": "1.5",
+      "option_c": "15",
+      "option_d": "Unable to determine",
+      "correct_option": "b"
+   },
+   {
+      "question": "The Z test is appropriate statistical test when sample size is",
+      "qid": 2,
+      "option_a": "Large",
+      "option_b": "Irrelevant to the test",
+      "option_c": "Moderate",
+      "option_d": "Small",
+      "correct_option": "a"
+   },
+   {
+      "question": "A test is conducted for H<sub>0</sub>: μ = 34, with σ = 5. A sample of size 100 is selected. The standard error of the sampling distribution is",
+      "qid": 3,
+      "option_a": "0.05",
+      "option_b": "0.5",
+      "option_c": "5",
+      "option_d": "10",
+      "correct_option": "b"
+   },
+   {
+      "question": "A test is conducted for H<sub>0</sub>: μ = 20, with σ = 4. A sample of size 36 has sample mean as 21.4. The test statistic is",
+      "qid": 4,
+      "option_a": "0.35",
+      "option_b": "12.6",
+      "option_c": "2.1",
+      "option_d": "1",
+      "correct_option": "c"
+   },
+   {
+      "question": "A test is conducted for H<sub>0</sub>: μ = 50 v/s. H<sub>1</sub>: μ > 50. The test statistic is 2.46. The p‐value is",
+      "qid": 5,
+      "option_a": "0.069",
+      "option_b": "0.0138",
+      "option_c": "0.9931",
+      "option_d": "0.05",
+      "correct_option": "a"
+   }
+]
