@@ -1,0 +1,47 @@
+[
+   {
+      "question": "What is the minimum required sample size for large sample mean test?",
+      "qid": 1,
+      "option_a": "15",
+      "option_b": "19",
+      "option_c": "10",
+      "option_d": "30",
+      "correct_option": "d"
+   },
+   {
+      "question": "The Z test assumes that the population variance is",
+      "qid": 2,
+      "option_a": "Equal to the sample variance",
+      "option_b": "Zero",
+      "option_c": "Unknown",
+      "option_d": "Known",
+      "correct_option": "d"
+   },
+   {
+      "question": "A two sample z‐test for the difference in population means is conducted. Which is NOT a possible alternative hypothesis?",
+      "qid": 3,
+      "option_a": "H<sub>1</sub> : &mu;<sub>1</sub> &ne; &mu;<sub>2</sub>",
+      "option_b": "H<sub>1</sub> : &mu;<sub>1</sub> = &mu;<sub>2</sub>",
+      "option_c": "H<sub>1</sub> : &mu;<sub>1</sub> - &mu;<sub>2</sub> < 0",
+      "option_d": "H<sub>1</sub> : &mu;<sub>1</sub> > &mu;<sub>2</sub>",
+      "correct_option": "b"
+   },
+   {
+      "question": "A Z‐test for two independent population means is conducted with null hypothesis H<sub>0</sub>: &mu;<sub>1</sub> = &mu;<sub>2</sub>. The standard error of the sampling distribution is",
+      "qid": 4,
+      "option_a": "<img src=\"./lab-manual/images/pre_4a.png\" alt=\"formula\">",
+      "option_b": "<img src=\"./lab-manual/images/pre_4b.png\" alt=\"formula\">",
+      "option_c": "<img src=\"./lab-manual/images/pre_4c.png\" alt=\"formula\">",
+      "option_d": "<img src=\"./lab-manual/images/pre_4d.png\" alt=\"formula\">",
+      "correct_option": "d"
+   },
+   {
+      "question": "Two random samples have been selected and a two sample z‐test for the difference in population means is conducted with H<sub>0</sub>: μ<sub>1</sub> = μ<sub>2</sub> vs. H<sub>1</sub>: μ<sub>1</sub> ≠ μ<sub>2</sub>. The results are σ<sub>1</sub> = 1.4, x&#772;<sub>1</sub>=6.8 , n<sub>1</sub> = 40, σ<sub>2</sub> = 1.6, x&#772;<sub>2</sub>=7, and n<sub>2</sub> = 44. The p‐value is",
+      "qid": 5,
+      "option_a": "0.136",
+      "option_b": "0.541",
+      "option_c": "0.271",
+      "option_d": "0.432",
+      "correct_option": "b"
+   }
+]
